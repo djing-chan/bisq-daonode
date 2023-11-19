@@ -1,7 +1,7 @@
 [submodule "bisq"]
 	path = bisq
-	url = https://github.com/bisq-network/bisq.git
-	branch = master
+	url = https://github.com/djing-chan/bisq.git
+	branch = fix-initial-data-request-handling
 [submodule "bisq-gradle"]
 	path = bisq-gradle
 	url = https://github.com/bisq-network/bisq-gradle.git
